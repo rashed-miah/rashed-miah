@@ -71,7 +71,7 @@
 <td width="50%">
 
 ### 🎓 **Parcel Point** - The delivery & management system
-[![Live Demo](https://img.shields.io/badge/Live-00C851?style=flat-square&logo=google-chrome&logoColor=white)](https://parcel-point-bc3e2.web.app/)
+[![Demo](https://img.shields.io/badge/Demo-FF6B6B?style=flat-square&logo=google-chrome&logoColor=white)](https://parcel-point-bc3e2.web.app/)
 
 **Tech Stack:** React, Node.js, Express.js, Stripe, Firebase Authentication
 - 📚 Parcel Booking & Tracking
