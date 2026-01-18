@@ -9,9 +9,17 @@
 
 ## 🧠 About Me
 I'm a passionate Full Stack Developer with expertise in modern web technologies.  
-I am currently pursuing my B.Sc. in Computer Science and Engineering at Green University of Bangladesh. I specialize in building secure, scalable, and user-friendly applications using
+I am currently pursuing my B.Sc. in Computer Science and Engineering at Green University of Bangladesh. I specialize in building secure, scalable, and user-friendly applications using :
 - **React.js**, **Express.js**, **MongoDB**
 - Currently Learning with **Next.js**
+  
+---
+
+## 🔨 Currently Working On
+
+🩺 **HealthCare** - Hospital Management System (Full Stack)
+
+---
 
 ## 🌐 Portfolio:
 
