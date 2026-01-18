@@ -1,3 +1,4 @@
+## 🌐 Portfolio:
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=appveyor&logoColor=white)](https://portfolio-jabeds-projects.vercel.app)
@@ -5,7 +6,7 @@
 </div>
 
 
-## 🌐 Connect with me:
+## 📧 Connect with me:
 <div align="center">
  
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/rashedul.gub.221) 
