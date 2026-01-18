@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Profile Banner - Liquid Glass Style.png" alt="Banner" />
+</p>
+
 <h1 align="center">👋 Hi, I'm Md. Rashed Miah</h1>
 <h3 align="center">🚀 Full Stack Developer | React | Express.js | MongoDB |</h3>
 
