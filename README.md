@@ -53,6 +53,55 @@
 
 </div>
 
+## 🏆 Featured Projects
+
+
+<table width="100%">
+<tr>
+<td width="50%">
+
+### 🎓 **Parcel Point** - The delivery & management system
+[![Live Demo](https://img.shields.io/badge/Live-00C851?style=flat-square&logo=google-chrome&logoColor=white)](https://parcel-point-bc3e2.web.app/)
+
+**Tech Stack:** React, Node.js, Express.js, Stripe, Firebase Authentication
+- 📚 Parcel Booking & Tracking
+- 💳 Integrated payment gateway
+- 📊 Comprehensive dashboard system
+
+</td>
+<td width="50%">
+
+### 🔧 **Nexora** - Apartment Management & Rental Platform.
+[![Demo](https://img.shields.io/badge/Demo-FF6B6B?style=flat-square&logo=google-chrome&logoColor=white)](https://nexora-e19dc.web.app/)
+
+**Tech Stack:** React, Node.js, Express.js, Stripe, Firebase Authentication
+- 👷 Manage apartment 
+- 💬 Interactive Map (React Leaflet) for warehouse/coverage areas
+- 💳 Stripe Payment Integration for secure payments
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ⚽ **Job Portal** - Job portal Application
+[![Demo](https://img.shields.io/badge/Demo-FF6B6B?style=flat-square&logo=google-chrome&logoColor=white)](https://job-portal-4014b.web.app/)
+
+
+**Tech Stack:** React, Node.js, Express.js, Stripe, Firebase Authentication
+- 👔 Recruiters can post jobs & seekers can apply
+- 📊 Track application status for posted jobs
+- 🔍 Browse and search available job listings
+
+ 
+
+</td>
+
+</tr>
+</table>
+
+<div align="center">
+
 # 📊 GitHub Stats:
 
 <div align="center">
