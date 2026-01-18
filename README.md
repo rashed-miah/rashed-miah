@@ -1,4 +1,14 @@
+<h1 align="center">👋 Hi, I'm Md. Rashed Miah</h1>
+<h3 align="center">🚀 Full Stack Developer | React | Express.js | MongoDB |</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jabed-Hasan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+ ---
+
 ## 🌐 Portfolio:
+
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=appveyor&logoColor=white)]()
