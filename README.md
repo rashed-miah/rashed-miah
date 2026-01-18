@@ -7,6 +7,12 @@
 
  ---
 
+## 🧠 About Me
+Hi, I’m Md. Rashed Miah, a Full Stack Web Developer, with expertise in modern web technologies.
+I am currently pursuing my B.Sc. in Computer Science and Engineering at Green University of Bangladesh. I specialize in building secure, scalable, and user-friendly applications using
+- **React.js**, **Express.js**, **MongoDB**
+- Currently Learning with **Next.js**
+
 ## 🌐 Portfolio:
 
 <div align="center">
