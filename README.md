@@ -1,7 +1,7 @@
 ## 🌐 Portfolio:
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=appveyor&logoColor=white)](https://portfolio-jabeds-projects.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=appveyor&logoColor=white)]()
 
 </div>
 
